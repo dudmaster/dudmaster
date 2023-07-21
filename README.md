@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 System Engineer | DevOps<br><br>Responsible, sociable, highly motivated, broad-minded, working in a team, open to new technologies, ready to learn.
 
 
